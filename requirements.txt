@@ -1,0 +1,6 @@
+Flask
+Flask-Bcrypt
+Flask-JWT-Extended
+Flask-CORS
+azure-cosmos
+python-dotenv
